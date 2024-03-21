@@ -1,0 +1,33 @@
+p {
+    color: blueviolet;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+p:hover {
+    background-color: aquamarine;
+}
+
+.standout {
+    color: red;
+    font-size: 20px;
+}
+
+h2.standout {
+    color: blue;
+}
+
+.image1{
+    border-radius: 50%;
+}
+.image2{
+    border-radius: 30px;
+}
+.image3{
+   opacity: 0.8; 
+}
+.image4{
+    filter: blur(5px);
+}
+.image5:hover{
+    width: 400px;
+}
